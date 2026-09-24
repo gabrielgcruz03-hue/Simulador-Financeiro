@@ -1,4 +1,4 @@
-# Simulador-Financeiro
+
 # Simulador Financeiro 💰
 
 Este projeto foi criado para ajudar no controle e planejamento de investimentos mensais, permitindo visualizar o crescimento do patrimônio ao longo do tempo com base em parâmetros configuráveis.
